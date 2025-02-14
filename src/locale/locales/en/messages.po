@@ -3307,7 +3307,7 @@ msgstr ""
 msgid "Hidden by your moderation settings."
 msgstr ""
 
-#: src/components/ListCard.tsx:131
+#: src/components/ListCard.tsx:130
 msgid "Hidden list"
 msgstr ""
 
@@ -3855,7 +3855,7 @@ msgstr ""
 msgid "List blocked"
 msgstr ""
 
-#: src/components/ListCard.tsx:151
+#: src/components/ListCard.tsx:150
 #: src/view/com/feeds/FeedSourceCard.tsx:255
 msgid "List by {0}"
 msgstr ""
@@ -4085,7 +4085,7 @@ msgstr ""
 msgid "Moderation details"
 msgstr ""
 
-#: src/components/ListCard.tsx:150
+#: src/components/ListCard.tsx:149
 #: src/view/com/modals/UserAddRemoveLists.tsx:222
 msgid "Moderation list by {0}"
 msgstr ""
@@ -5512,7 +5512,7 @@ msgstr ""
 msgid "Remove profile"
 msgstr ""
 
-#: src/view/com/util/post-embeds/QuoteEmbed.tsx:284
+#: src/view/com/util/post-embeds/QuoteEmbed.tsx:285
 msgid "Remove quote"
 msgstr ""
 
@@ -5561,7 +5561,7 @@ msgstr ""
 msgid "Removes profile from search history"
 msgstr ""
 
-#: src/view/com/util/post-embeds/QuoteEmbed.tsx:285
+#: src/view/com/util/post-embeds/QuoteEmbed.tsx:286
 msgid "Removes quoted post"
 msgstr ""
 
